@@ -1,6 +1,6 @@
 # React-Quick-Starter
 
-## Developer: Samuel Ham(skh4q@virginia.edu)
+Developer: Samuel Ham(skh4q@virginia.edu)
 
 ### App Install Instruction :
  - Install Node.js (https://nodejs.org/)
