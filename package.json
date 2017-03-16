@@ -1,0 +1,34 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --host 0.0.0.0"    
+  },
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "*",
+    "redux": "*",
+    "react-redux": "*"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "*",
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-plugin-transform-object-rest-spread": "*",
+    "css-loader": "*",
+    "extract-text-webpack-plugin": "*",
+    "node-sass": "*",
+    "postcss-loader": "*",
+    "sass-loader": "*",
+    "style-loader": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
